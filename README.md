@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenieAI Text Summarizer
 
 GenieAI is a web application that provides AI-powered text summarization services.
@@ -63,3 +64,6 @@ GenieAI is a web application that provides AI-powered text summarization service
    ```
 
 5. **Access the Application**: Open your browser and go to `http://localhost:5173`
+=======
+# GenieAI
+>>>>>>> c208bd586edb5799602e969d274644e5e3b1c91d
