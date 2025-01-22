@@ -1,22 +1,23 @@
-<<<<<<< HEAD
-# GenieAI Text Summarizer
+# 🌟 GenieAI Text Summarizer
 
-GenieAI is a web application that provides AI-powered text summarization services.
+Welcome to **GenieAI**, your go-to web application for AI-powered text summarization. Transform lengthy documents into concise summaries with ease and efficiency.
 
-## Features
 
-- AI-powered text summarization
-- User authentication
-- Responsive design
 
-## Tech Stack
+## 🚀 Features
 
-- **Frontend**: React, Material-UI
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Authentication**: JWT
+- **AI-Powered Summarization**: Leverage advanced AI algorithms to generate accurate and concise summaries.
+- **User Authentication**: Secure your data with robust JWT-based authentication.
+- **Responsive Design**: Enjoy a seamless experience across all devices.
 
-## Use Cases
+## 🛠 Tech Stack
+
+- **Frontend**: [React](https://reactjs.org/), [Material-UI](https://mui.com/)
+- **Backend**: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)
+- **Database**: [MongoDB](https://www.mongodb.com/)
+- **Authentication**: [JWT](https://jwt.io/)
+
+## 🎯 Use Cases
 
 - **Content Creation**: Quickly generate summaries for articles, reports, or any lengthy documents to save time and enhance productivity.
 - **Education**: Assist students and educators in summarizing academic papers, textbooks, and lecture notes.
@@ -24,11 +25,13 @@ GenieAI is a web application that provides AI-powered text summarization service
 - **Business**: Enable professionals to summarize meeting notes, emails, and business reports for efficient communication.
 - **Personal Use**: Summarize news articles, blogs, or any online content for personal knowledge and quick understanding.
 
-## Setup Instructions
+
+
+## 🔧 Setup Instructions
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/genieai.git
+   git clone https://github.com/nikpatil7/GenieAI.git
    ```
 
 2. **Install Dependencies**:
@@ -64,6 +67,5 @@ GenieAI is a web application that provides AI-powered text summarization service
    ```
 
 5. **Access the Application**: Open your browser and go to `http://localhost:5173`
-=======
-# GenieAI
->>>>>>> c208bd586edb5799602e969d274644e5e3b1c91d
+
+
