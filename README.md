@@ -1,33 +1,29 @@
-# 🌟 GenieAI Text Summarizer
+# GenieAI Text Summarizer
 
-Welcome to **GenieAI**, your go-to web application for AI-powered text summarization. Transform lengthy documents into concise summaries with ease and efficiency.
+GenieAI is a web application designed to provide efficient AI-powered text summarization services.
 
+## Features
 
+- AI-powered text summarization
+- User authentication
+- Responsive design
 
-## 🚀 Features
+## Tech Stack
 
-- **AI-Powered Summarization**: Leverage advanced AI algorithms to generate accurate and concise summaries.
-- **User Authentication**: Secure your data with robust JWT-based authentication.
-- **Responsive Design**: Enjoy a seamless experience across all devices.
+- **Frontend**: React, Material-UI
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Authentication**: JWT
 
-## 🛠 Tech Stack
+## Use Cases
 
-- **Frontend**: [React](https://reactjs.org/), [Material-UI](https://mui.com/)
-- **Backend**: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/)
-- **Database**: [MongoDB](https://www.mongodb.com/)
-- **Authentication**: [JWT](https://jwt.io/)
+- **Content Creation**: Generate summaries for articles and reports.
+- **Education**: Summarize academic papers and lecture notes.
+- **Research**: Condense large volumes of information.
+- **Business**: Summarize meeting notes and business reports.
+- **Personal Use**: Summarize news articles and blogs.
 
-## 🎯 Use Cases
-
-- **Content Creation**: Quickly generate summaries for articles, reports, or any lengthy documents to save time and enhance productivity.
-- **Education**: Assist students and educators in summarizing academic papers, textbooks, and lecture notes.
-- **Research**: Help researchers condense large volumes of information into concise summaries for easier analysis.
-- **Business**: Enable professionals to summarize meeting notes, emails, and business reports for efficient communication.
-- **Personal Use**: Summarize news articles, blogs, or any online content for personal knowledge and quick understanding.
-
-
-
-## 🔧 Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**:
    ```bash
@@ -67,5 +63,4 @@ Welcome to **GenieAI**, your go-to web application for AI-powered text summariza
    ```
 
 5. **Access the Application**: Open your browser and go to `http://localhost:5173`
-
 
